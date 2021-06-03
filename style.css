@@ -1,0 +1,89 @@
+body {
+    font-family: 'Creepster', cursive;
+    background: radial-gradient(lime 0%,cyan 100%,yellow 0%);
+}
+
+.header_div {
+    background-color: orange;
+    color: white;
+}
+
+.header_div img {
+    width: 100px;
+}
+
+.main_div {
+    background: red;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid white;
+}
+
+.main_div label {
+    background: blue;
+    color: white;
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px black;
+    font-size: 20px;
+}
+
+#camera {
+    border: 2px solid white;
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 18px black;
+    margin-bottom: 30px;
+}
+
+#take_photo {
+    background: orange;
+    border-radius: 10px;
+    font-size: 20px;
+    color: white;
+}
+
+#result {
+    border: 2px solid white;
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 18px black;
+    margin-bottom: 30px;
+}
+
+#identify {
+    background: lime;
+    border-radius: 10px;
+    font-size: 20px;
+    color: white;
+}
+
+.footer_div {
+    margin-bottom: 50px;
+}
+
+.footer_div h4 {
+    background: white;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 5px 5px 18px black;
+}
+
+.footer_div img {
+    width: 70px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 50%;
+    background-color: blue;
+    line-height: 3;
+    text-align: center;
+    font-size: 20px;
+    border-radius: 200px;
+    margin-left: 300px;
+    box-shadow: 5px 5px 18px black;
+}
